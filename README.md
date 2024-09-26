@@ -1,5 +1,6 @@
 
-# ![WEMIXT Logo](https://github.com/user-attachments/assets/6fad5319-e1c8-47fd-a699-413af23f4a81)
+# ![WEMIXT Logo](https://github.com/user-attachments/assets/78509742-094c-4ee9-ba81-7ffaa310ce09)
+
 
 ## Welcome to WEMIXT
 
