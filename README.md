@@ -61,7 +61,7 @@ At WEMIXT, we foster a culture of innovation, collaboration, and growth. We are 
 ### Success Stories
 
 - **Namaste Sri Lanka**: Developed a high-performance tourism platform with optimized SEO and social media strategies, dramatically increasing visitor engagement and conversions.
-- **Posta NEXT JS**: Created a custom logistics web app with real-time tracking for streamlined delivery operations in Sri Lanka.
+- **Posta**: Created a custom logistics web app with real-time tracking for streamlined delivery operations in Sri Lanka.
 - **Hotel Booking App**: Built a Flutter-based mobile app for hotel bookings across the USA and Australia, featuring seamless integrations with third-party services for real-time availability and booking.
 
 ### Looking Ahead
