@@ -71,7 +71,7 @@ We’re constantly pushing the limits of what’s possible in both **technology*
 ### Connect With Us
 
 <p align="left">
-<a href="https://twitter.com/wemixt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wemixt" height="30" width="40" /></a>
+<a href="https://twitter.com/wemixtLTD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wemixt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wemixt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wemixt/" height="30" width="40" /></a>
 <a href="https://fb.com/wemixt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wemixt" height="30" width="40" /></a>
 <a href="https://instagram.com/wemixt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wemixt_" height="30" width="40" /></a>
